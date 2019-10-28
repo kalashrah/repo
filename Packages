@@ -1,0 +1,14 @@
+Package: jb.kalashrah.Jodel10
+Version: 2.0
+Section: Tweaks
+Maintainer: kalashrah (kalashrah@hotmail.com)
+Depends: mobilesubstrate
+Conflicts:
+Architecture: iphoneos-arm
+Filename: deb//jb.kalashrah.Jodel10_0.1-1_iphoneos-arm.deb
+Size: 222614
+MD5sum: 93ee38628218f875bab840dd9a745715
+Description:
+Name: k10Jodel
+Author: kalashrah
+Depiction:

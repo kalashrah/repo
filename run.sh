@@ -1,0 +1,7 @@
+#!/bin/bash
+git pull
+rm ./Packages
+touch ./Packages
+./dpkg-scanpackages deb ./deb > Packages
+bzip2 -c9 Packages > Packages.bz2
+echo "Updated Packages"
