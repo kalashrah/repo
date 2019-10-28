@@ -1,0 +1,27 @@
+<package>
+	<id>com.kalashrah.whaedite10</id>
+	<name>WhaEdite10</name>
+	<version>0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>WhaEdite10</description>
+	</descriptionlist>
+	<changelog>
+		<version>0.1</version>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>http://kalashrah.com/repo10</url>
+			<iconclass>kalashrah</iconclass>
+		</link>
+	</links>
+</package>
