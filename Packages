@@ -1,14 +1,30 @@
 Package: jb.kalashrah.Jodel10
-Version: 2.0
-Section: Tweaks
-Maintainer: kalashrah (kalashrah@hotmail.com)
-Depends: mobilesubstrate
-Conflicts:
+Version: 0.1-1
 Architecture: iphoneos-arm
-Filename: deb//jb.kalashrah.Jodel10_0.1-1_iphoneos-arm.deb
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/jb.kalashrah.Jodel10_0.1-1_iphoneos-arm.deb
 Size: 222614
 MD5sum: 93ee38628218f875bab840dd9a745715
-Description:
-Name: k10Jodel
-Author: kalashrah
-Depiction:
+SHA1: 9e8f9afedafe09448217a6132279375e2c8022cd
+SHA256: bfd6f0247835f2030ff9b682ba18c84c513165262d4fbf1fdf2508e1bfb945e8
+Section: System
+Priority: optional
+Author: MacBook 10
+Name: Jodel10
+
+Package: wget
+Version: 1.19.5-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1112
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: gettext, libssl1.0
+Filename: deb/wget.deb
+Size: 199810
+MD5sum: 94d0f5858b02330e081707db5c9937df
+SHA1: 4e7672da7e35b086e060ecda0115c41441b105e9
+SHA256: 88ee4c12066b093ed9f103352108afe7b63b88f3c6978e39034f0cccd500786a
+Section: Networking
+Priority: important
+Description: simple HTTP file transfer client
+
