@@ -1,4 +1,4 @@
-Package: jb.kalashrah.Jodel10
+Package: jb.kalashrah.JodelPP
 Version: 0.2.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -10,7 +10,7 @@ SHA256: 6d614622faa5366380f6ae1c69d952a0b30ea50b2dda1c8a25aa1a815d914f23
 Section: System
 Priority: optional
 Author: kalashrah
-Name: Jodel10
-
-
+Dev: k10
+Icon: http://kalashrah.000webhostapp.com/Jodel/JodelPP.png
+Name: JodelPP
 
